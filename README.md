@@ -1,6 +1,5 @@
-# jetpack-sample
-Jetpack sample
+# Jetpack sample
 
 
-### android studio beta ###
+### powered with ###
 ![Alt_text](assets/android-studio-beta.png)
